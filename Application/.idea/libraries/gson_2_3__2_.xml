@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="gson-2.3 (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/jdbc/gson-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jdbc/javax.servlet.jsp.jstl-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jdbc/javax.servlet.jsp.jstl-api-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jdbc/postgresql-9.3-1102.jdbc41.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
